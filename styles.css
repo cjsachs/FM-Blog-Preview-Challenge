@@ -91,7 +91,7 @@ h4 {
         width: 384px;
     }
 
-    h4:hover {
+    h4:hover, h4:focus {
         cursor: pointer;
         color: #F4D04E;
     }
