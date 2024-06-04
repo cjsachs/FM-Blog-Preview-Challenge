@@ -85,3 +85,14 @@ h4 {
     text-decoration: none;
     color: black;
 }
+
+@media (min-width: 1440px) {
+    .container {
+        width: 384px;
+    }
+
+    h4:hover {
+        cursor: pointer;
+        color: #F4D04E;
+    }
+}
